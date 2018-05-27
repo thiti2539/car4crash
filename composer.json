@@ -1,6 +1,0 @@
-{
-    "require": {
-        "ktamas77/firebase-php": "dev-master",
-        "kreait/firebase-php": "^3.0"
-    }
-}
